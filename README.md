@@ -12,7 +12,8 @@ Me chamo Daniele, tenho 35 anos e sou estudante de Ciência da Computação na [
 
 ## Estatísticas do GitHub
 
-![daphniele's Stats](https://github-readme-stats.vercel.app/api?username=daphniele&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![daphniele's Stats](https://github-readme-stats.vercel.app/api?username=daphniele&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)  
+
 ![daphniele's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daphniele&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
